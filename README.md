@@ -1,2 +1,4 @@
-# valo
-Finnish for "Light". a bot with simplicity in mind
+# Valo
+Finnish for "Light". a bot with simplicity in mind.
+
+### More coming soon!
